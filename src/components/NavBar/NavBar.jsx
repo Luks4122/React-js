@@ -4,7 +4,7 @@ import "./NavBar.css"
 
 export const Navbar = () =>{
     return <nav>
-            <Link to="/" className="titulo">Inicio</Link>
+            <Link to="/" className="titulo">Retrobyte</Link>
         <ul>
             <li>
                 <NavLink to="/acerca">Acerca</NavLink>
